@@ -6,9 +6,12 @@
 * [Anne Hathaway’s tip for self-care sounds completely absurd – but it’s not](https://www.theladders.com/career-advice/anne-hathaways-tip-for-self-care-sounds-completely-absurd-but-its-not)- Alexandra Villarreal; January 9, 2019
 * [This morning routine will make you unstoppable](https://www.theladders.com/career-advice/this-morning-routine-will-make-you-unstoppable) - Benjamin P. Hardy; December 7, 2018
 * [60 Best 60-Second Productivity Hacks](https://bestlifeonline.com/60-second-productivity-hacks/)
-* [How to gamify your life to quickly accomplish big goals](https://www.theladders.com/career-advice/how-to-gamify-your-life-to-quickly-accomplish-big-goals?ltm=GuIJvLsWEQ43mWhHxrTBLF29HR/%2B3yNhRMX7AUAFOtr2UINU8aCyiW1B4oJ%2BgguE&utm_swu=6280&utm_source=member&utm_campaign=daily-newsletter&utm_content=5/13-DNL%20FOR%20SEND%20Manscaped) - [Medium article](https://medium.com/the-mission/how-to-gamify-your-life-to-quickly-accomplish-big-goals-b81721299912)
+* [How to gamify your life to quickly accomplish big goals](https://www.theladders.com/career-advice/how-to-gamify-your-life-to-quickly-accomplish-big-goals) - [Medium article](https://medium.com/the-mission/how-to-gamify-your-life-to-quickly-accomplish-big-goals-b81721299912)
+* [Why full catastrophe living is slowing you down](https://www.theladders.com/career-advice/why-full-catastrophe-living-is-slowing-you-down)- John P. Weiss; May 14, 2019
 
+# Living Life
+* [Leadership lessons from Serena Williams and Michelle Obama](https://www.theladders.com/career-advice/leadership-lessons-from-serena-williams-and-michelle-obama?utm_swu=6280) - Sue Hawkes; April 25, 2019
 
 # Thinking Ahead
 * [Your complete guide to mastering your early retirement](https://www.theladders.com/career-advice/your-complete-guide-to-mastering-your-early-retirement) - Steve Adcock; May 10, 2019
-* [Finding financial freedom: A bucket list for Millennials and Gen](https://www.theladders.com/career-advice/finding-financial-freedom-a-bucket-list-for-millennials-and-gen-z?ltm=GuIJvLsWEQ43mWhHxrTBLF29HR/%2B3yNhRMX7AUAFOtr2UINU8aCyiW1B4oJ%2BgguE&utm_swu=6280&utm_source=member&utm_campaign=daily-newsletter) - Molly Barnes; May 13, 2019
+* [Finding financial freedom: A bucket list for Millennials and Gen](https://www.theladders.com/career-advice/finding-financial-freedom-a-bucket-list-for-millennials-and-gen-z) - Molly Barnes; May 13, 2019
