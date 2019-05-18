@@ -45,3 +45,4 @@
 * [21 Most Common Broker Features & Fees Glossary](https://www.stockbrokers.com/guides/features-fees) - StockBrokers, Blain Reinkensmeyer; Monday, January 8th, 2018
 * [The 8 Best Investment Apps of 2019](https://www.thebalance.com/best-investment-apps-4154203) - The Balance,  By Eric Rosenberg and LaToya Irby; Updated May 08, 2019
   * Make and save money with these must-have apps 
+* [Stock Basics Tutorial](https://www.investopedia.com/university/stocks/)- Investopedia, By Adam Hayes | Updated May 25, 2017 — 12:53 PM EDT
