@@ -42,4 +42,6 @@
   * A brokerage account is an investment account you open with a brokerage firm, like an online broker or stockbroker. You can use money you deposit into a brokerage account to buy investments like stocks, bonds or mutual funds.
 * [Understanding Investment Fees: From Brokerage Fees to Sales Loads](https://www.nerdwallet.com/blog/investing/brokerage-commissions-fees/) - NerdWallet, Arielle O'Shea; May 10, 2019
   * Get to know the most common investment, stock trading and brokerage fees. Learn where to find them and how to lower costs.
-* [21 Most Common Broker Features & Fees Glossary](https://www.stockbrokers.com/guides/features-fees) - StockBrokers, Blain Reinkensmeyer; Monday, January 8th, 2018 
+* [21 Most Common Broker Features & Fees Glossary](https://www.stockbrokers.com/guides/features-fees) - StockBrokers, Blain Reinkensmeyer; Monday, January 8th, 2018
+* [The 8 Best Investment Apps of 2019](https://www.thebalance.com/best-investment-apps-4154203) - The Balance,  By Eric Rosenberg and LaToya Irby; Updated May 08, 2019
+  * Make and save money with these must-have apps 
