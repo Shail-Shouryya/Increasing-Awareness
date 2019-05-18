@@ -50,3 +50,15 @@
 * [Talking to the Law Student With a Novel Theory About Amazon’s Power](http://nymag.com/intelligencer/2019/05/amazon-antitrust-monopoly.html) - Benjamin Hart; May 11, 2019
 * [Bernie Sanders and Alexandria Ocasio-Cortez’s interest-rate cap could be the death knell for credit-card rewards programs](https://www.marketwatch.com/story/how-bernie-sanders-and-alexandria-ocasio-cortezs-proposal-to-cap-credit-card-interest-rates-at-15-could-hurt-consumers-2019-05-10) - MarketWatch; Published: May 12, 2019 1:35 p.m. ET
 * [Tips from a guy who managed to live in Manhattan on a $40,000 salary and still max out his 401(k) contributions](https://www.marketwatch.com/story/tips-from-a-guy-who-managed-to-live-in-manhattan-on-a-40000-salary-and-still-max-out-his-401k-contributions-2018-11-12) - MarketWatch; Published: Nov 12, 2018 1:43 p.m. ET
+
+## Technology
+* [The Future: Apple owes everyone an apology and it should start with me, specifically](https://theoutline.com/post/7315/apple-keyboards-still-suck-insanely-bad?zd=3&zi=6dey5s2d) - The Outline, Casey Johnston; Apr—18—2019 09:20AM EST
+  * Its butterfly keyboard design has failed, but Apple has yet to substantially admit that it has made a very big mistake.
+* [The Future: The new MacBook keyboard is ruining my life](https://theoutline.com/post/2402/the-new-macbook-keyboard-is-ruining-my-life?zd=2&zi=g5e5a3j3) - The Outline, Casey Johnston; Oct—17—2017 09:43AM EST
+* [Letter from Silicon Valley: In San Francisco, Tech Money Doesn’t Buy Happiness](https://www.newyorker.com/news/letter-from-silicon-valley/in-san-francisco-tech-money-doesnt-buy-happiness?utm_source=pocket-newtab) - The New Yorker, By Anna Wiener; May 17, 2019
+* [Letter from Silicon Valley: Jack Dorsey’s TED Interview and the End of an Era](https://www.newyorker.com/news/letter-from-silicon-valley/jack-dorseys-ted-interview-and-the-end-of-an-era) - The New Yorker, By Anna Wiener; April 27, 2019
+* [Report slams police for using "garbage" data with facial recognition tools](https://www.zdnet.com/article/report-slams-police-for-using-garbage-data-with-facial-recognition-tools/?ftag=TRE-03-10aaa6b&bhid=28617173591420990370215747127958) - ZDNet, By Stephanie Condon for Between the Lines | May 16, 2019 -- 23:08 GMT (16:08 PDT) | Topic: Artificial Intelligence
+  * From artist sketches to pictures of celebrity look-alikes, US police have submitted questionable images to facial recognition systems to track down suspects, a Georgetown Law report notes.
+Stephanie Condon
+* [MIT finally gives a name to the sum of all AI fears](https://www.zdnet.com/article/mit-finally-gives-a-name-to-the-sum-of-all-ai-fears/) - ZDNet, By Tiernan Ray | April 25, 2019 -- 17:24 GMT (10:24 PDT) | Topic: Artificial Intelligence
+  * Rather than simply being scared of “intelligent machines,” say researchers at MIT’s Media Lab, society needs to study algorithms with a multi-disciplinary approach akin to the field of ethology.
