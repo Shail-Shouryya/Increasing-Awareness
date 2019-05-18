@@ -14,6 +14,7 @@
 * [America's health costs are scaring patients away from the ER](https://www.vox.com/health-care/2019/5/10/18526696/health-care-costs-er-emergency-room) - Sarah Kliff; May 10, 2019, 9:00am EDT 
 * [Talking to the Law Student With a Novel Theory About Amazon’s Power](http://nymag.com/intelligencer/2019/05/amazon-antitrust-monopoly.html) - Benjamin Hart; May 11, 2019
 * [Bernie Sanders and Alexandria Ocasio-Cortez’s interest-rate cap could be the death knell for credit-card rewards programs](https://www.marketwatch.com/story/how-bernie-sanders-and-alexandria-ocasio-cortezs-proposal-to-cap-credit-card-interest-rates-at-15-could-hurt-consumers-2019-05-10) - MarketWatch; Published: May 12, 2019 1:35 p.m. ET
+* [Tips from a guy who managed to live in Manhattan on a $40,000 salary and still max out his 401(k) contributions](https://www.marketwatch.com/story/tips-from-a-guy-who-managed-to-live-in-manhattan-on-a-40000-salary-and-still-max-out-his-401k-contributions-2018-11-12) - MarketWatch; Published: Nov 12, 2018 1:43 p.m. ET
 
 # Life
 ## Daily Habits
@@ -26,6 +27,7 @@
 * [60 Best 60-Second Productivity Hacks](https://bestlifeonline.com/60-second-productivity-hacks/)
 * [How to gamify your life to quickly accomplish big goals](https://www.theladders.com/career-advice/how-to-gamify-your-life-to-quickly-accomplish-big-goals) - [Medium article](https://medium.com/the-mission/how-to-gamify-your-life-to-quickly-accomplish-big-goals-b81721299912)
 * [Why full catastrophe living is slowing you down](https://www.theladders.com/career-advice/why-full-catastrophe-living-is-slowing-you-down)- John P. Weiss; May 14, 2019
+* [Achieving Financial Independence On A Modest Income: $40,000 In Manhattan](https://www.financialsamurai.com/achieving-financial-independence-on-a-modest-income/) - Financial Samurai
 
 ## Living Life
 * [Leadership lessons from Serena Williams and Michelle Obama](https://www.theladders.com/career-advice/leadership-lessons-from-serena-williams-and-michelle-obama?utm_swu=6280) - Sue Hawkes; April 25, 2019
