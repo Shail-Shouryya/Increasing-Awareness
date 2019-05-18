@@ -46,3 +46,5 @@
 * [The 8 Best Investment Apps of 2019](https://www.thebalance.com/best-investment-apps-4154203) - The Balance,  By Eric Rosenberg and LaToya Irby; Updated May 08, 2019
   * Make and save money with these must-have apps 
 * [Stock Basics Tutorial](https://www.investopedia.com/university/stocks/)- Investopedia, By Adam Hayes | Updated May 25, 2017 — 12:53 PM EDT
+* [Stock Trading vs. Investing: What’s the Difference?](https://www.nerdwallet.com/blog/investing/stock-trading-vs-investing-whats-the-difference/) - NerdWallet, Andrea Coombes; May 21, 2018
+  * Stock trading is about buying and selling stocks for short-term profit, with a focus on share prices. Investing is about buying stocks for long-term gains.
