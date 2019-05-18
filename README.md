@@ -35,3 +35,8 @@
 ## Thinking Ahead
 * [Your complete guide to mastering your early retirement](https://www.theladders.com/career-advice/your-complete-guide-to-mastering-your-early-retirement) - Steve Adcock; May 10, 2019
 * [Finding financial freedom: A bucket list for Millennials and Gen](https://www.theladders.com/career-advice/finding-financial-freedom-a-bucket-list-for-millennials-and-gen-z) - Molly Barnes; May 13, 2019
+
+## Finance
+* [Best of Best Online Brokers for Stock Trading of May 2019](https://www.nerdwallet.com/best/investing/online-brokers-for-stock-trading) - NerdWallet; May 15, 2019
+* [What Is a Brokerage Account and How Do I Open One?](https://www.nerdwallet.com/blog/investing/what-is-how-to-open-brokerage-account/) - MarketWatch, Arielle O'Shea; May 6, 2019
+  * A brokerage account is an investment account you open with a brokerage firm, like an online broker or stockbroker. You can use money you deposit into a brokerage account to buy investments like stocks, bonds or mutual funds.
