@@ -48,3 +48,5 @@
 * [Stock Basics Tutorial](https://www.investopedia.com/university/stocks/)- Investopedia, By Adam Hayes | Updated May 25, 2017 — 12:53 PM EDT
 * [Stock Trading vs. Investing: What’s the Difference?](https://www.nerdwallet.com/blog/investing/stock-trading-vs-investing-whats-the-difference/) - NerdWallet, Andrea Coombes; May 21, 2018
   * Stock trading is about buying and selling stocks for short-term profit, with a focus on share prices. Investing is about buying stocks for long-term gains.
+* [How to Buy Stocks](https://www.nerdwallet.com/blog/investing/how-to-buy-stocks/) - NerdWallet, Dayana Yochim; May 14, 2019
+  * Once you've decided what stock to buy, you can place your order through an investment account at an online broker. Some companies also allow investors to buy stock directly.
