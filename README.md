@@ -40,3 +40,5 @@
 * [Best of Best Online Brokers for Stock Trading of May 2019](https://www.nerdwallet.com/best/investing/online-brokers-for-stock-trading) - NerdWallet; May 15, 2019
 * [What Is a Brokerage Account and How Do I Open One?](https://www.nerdwallet.com/blog/investing/what-is-how-to-open-brokerage-account/) - MarketWatch, Arielle O'Shea; May 6, 2019
   * A brokerage account is an investment account you open with a brokerage firm, like an online broker or stockbroker. You can use money you deposit into a brokerage account to buy investments like stocks, bonds or mutual funds.
+* [Understanding Investment Fees: From Brokerage Fees to Sales Loads](https://www.nerdwallet.com/blog/investing/brokerage-commissions-fees/) - Arielle O'Shea; May 10, 2019
+  * Get to know the most common investment, stock trading and brokerage fees. Learn where to find them and how to lower costs.
