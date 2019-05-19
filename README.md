@@ -77,8 +77,6 @@ Things to always be aware of:
 * index funds
 * hedge funds
 * ETFs
-
-
   
 ### Trading
 * [Best of Best Online Brokers for Stock Trading of May 2019](https://www.nerdwallet.com/best/investing/online-brokers-for-stock-trading) - NerdWallet; May 15, 2019
@@ -89,6 +87,19 @@ When stock prices go down, you can:
 * add to your per dollar cost averaging by purchasing more of the same stock (dangerous, shouldn't do more than 2 or 3 times if stock continues to decrease in value)
 * book you losses by selling the stock
 * look at your losses by holding onto the stock
+#### Options
+* options spread
+* options Greeks (delta, gamma, theta, vega)
+* map: consists of looking at risk graphs, simulation window, and simulation results
+* option adjustments
+* advanced techniques
+  * iron candors
+  * calendars
+  * straddles
+  * backspreads
+* time decay
+* volatility
+* directional, non-directional strategies
 
 # Current Events
 ## Predictions, Future, Past
