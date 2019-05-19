@@ -51,7 +51,33 @@ Things to always be aware of:
 * fixed annuity
 * variable annuity
 * equity-indexed annuity (mix of fixed and variable annuities)
+
 *note these are conservative investments and typically do not offer yields on the magnitude of returns from the stock market, stock market index, or stock fund returns, and there are usually significant surrender fees*
+* mutual fund
+* index fund: [Investopedia](https://www.investopedia.com/terms/i/indexfund.asp)
+  *  Index Funds vs. Actively Managed Funds: Investing in an index fund is a form of passive investing. The opposite strategy is active investing, as realized in actively managed mutual funds—the ones with the securities-picking and market-timing portfolio manager
+* exchange-traded fund (ETF): [Investopedia](https://www.investopedia.com/terms/e/etf.asp)
+  *  What Is an Exchange-Traded Fund – ETF? An exchange-traded fund is a basket of securities—such as stocks—that tracks an underlying index. An exchange-traded fund is a marketable security. It has an associated price that allows it to be bought and sold. ETFs can contain all types of investments including stocks, commodities, bonds, or a mixture of investment types.
+
+#### Terms
+* securities
+  * equity
+  * debt
+* price actions
+* stocks
+* futures
+* options
+* derivatives
+* puts
+* calls
+* shorting
+* hedging
+* bonds
+* annuity
+* index funds
+* hedge funds
+* ETFs
+
 
   
 ### Trading
