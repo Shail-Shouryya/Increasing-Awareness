@@ -54,6 +54,11 @@ Things to always be aware of:
 * [Best of Best Online Brokers for Stock Trading of May 2019](https://www.nerdwallet.com/best/investing/online-brokers-for-stock-trading) - NerdWallet; May 15, 2019
 * [How to Buy Stocks](https://www.nerdwallet.com/blog/investing/how-to-buy-stocks/) - NerdWallet, Dayana Yochim; May 14, 2019
   * Once you've decided what stock to buy, you can place your order through an investment account at an online broker. Some companies also allow investors to buy stock directly.
+#### Stocks
+When stock prices go down, you can:
+* add to your per dollar cost averaging by purchasing more of the same stock (dangerous, shouldn't do more than 2 or 3 times if stock continues to decrease in value)
+* book you losses by selling the stock
+* look at your losses by holding onto the stock
 
 # Current Events
 ## Predictions, Future, Past
