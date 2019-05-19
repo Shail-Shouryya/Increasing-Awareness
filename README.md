@@ -21,11 +21,15 @@
 * [Finding financial freedom: A bucket list for Millennials and Gen](https://www.theladders.com/career-advice/finding-financial-freedom-a-bucket-list-for-millennials-and-gen-z) - Molly Barnes; May 13, 2019
 
 ## Finance
-Specific
-Measurable
-Achievable
-Realistic
-Time-bound
+**S**pecific
+
+**M**easurable
+
+**A**chievable
+
+**R**ealistic
+
+**T**ime-bound
 
 Things to always be aware of:
 * credit score
