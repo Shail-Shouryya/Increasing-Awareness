@@ -21,7 +21,20 @@
 * [Finding financial freedom: A bucket list for Millennials and Gen](https://www.theladders.com/career-advice/finding-financial-freedom-a-bucket-list-for-millennials-and-gen-z) - Molly Barnes; May 13, 2019
 
 ## Finance
-* [Best of Best Online Brokers for Stock Trading of May 2019](https://www.nerdwallet.com/best/investing/online-brokers-for-stock-trading) - NerdWallet; May 15, 2019
+Specific
+Measurable
+Achievable
+Realistic
+Time-bound
+
+Things to always be aware of:
+* credit score
+* debt-to-income ratio (DTI ratio)
+* savings rate
+* monthly expenses
+* net worth
+
+### Investing
 * [What Is a Brokerage Account and How Do I Open One?](https://www.nerdwallet.com/blog/investing/what-is-how-to-open-brokerage-account/) - MarketWatch, Arielle O'Shea; May 6, 2019
   * A brokerage account is an investment account you open with a brokerage firm, like an online broker or stockbroker. You can use money you deposit into a brokerage account to buy investments like stocks, bonds or mutual funds.
 * [Understanding Investment Fees: From Brokerage Fees to Sales Loads](https://www.nerdwallet.com/blog/investing/brokerage-commissions-fees/) - NerdWallet, Arielle O'Shea; May 10, 2019
@@ -32,6 +45,9 @@
 * [Stock Basics Tutorial](https://www.investopedia.com/university/stocks/)- Investopedia, By Adam Hayes | Updated May 25, 2017 — 12:53 PM EDT
 * [Stock Trading vs. Investing: What’s the Difference?](https://www.nerdwallet.com/blog/investing/stock-trading-vs-investing-whats-the-difference/) - NerdWallet, Andrea Coombes; May 21, 2018
   * Stock trading is about buying and selling stocks for short-term profit, with a focus on share prices. Investing is about buying stocks for long-term gains.
+  
+### Trading
+* [Best of Best Online Brokers for Stock Trading of May 2019](https://www.nerdwallet.com/best/investing/online-brokers-for-stock-trading) - NerdWallet; May 15, 2019
 * [How to Buy Stocks](https://www.nerdwallet.com/blog/investing/how-to-buy-stocks/) - NerdWallet, Dayana Yochim; May 14, 2019
   * Once you've decided what stock to buy, you can place your order through an investment account at an online broker. Some companies also allow investors to buy stock directly.
 
