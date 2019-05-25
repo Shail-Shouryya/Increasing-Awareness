@@ -163,6 +163,8 @@ Stephanie Condon
   * How the industry’s upselling techniques get Americans to pay too much to file a federal tax return.
 * [The restaurant owner who asked for 1-star Yelp reviews](https://thehustle.co/botto-bistro-1-star-yelp/) - the Hustle, BY Zachary Crockett; June 9, 2019
   * How one small business owner flipped the online review ecosystem on its head.
+* [Microsoft: We promise you'll get better controls over how we use your data](https://www.zdnet.com/article/microsoft-we-promise-youll-get-better-controls-over-how-we-use-your-data/) - ZDNet, By Liam Tung | May 1, 2019 -- 13:08 GMT (06:08 PDT) | Topic: Enterprise Software
+  * Microsoft creates 'required' and 'optional' categories of data it collects after EU probe into GDPR violations.
 
 
 ## Healthcare
