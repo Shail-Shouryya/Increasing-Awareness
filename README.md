@@ -165,7 +165,8 @@ Stephanie Condon
   * How one small business owner flipped the online review ecosystem on its head.
 * [Microsoft: We promise you'll get better controls over how we use your data](https://www.zdnet.com/article/microsoft-we-promise-youll-get-better-controls-over-how-we-use-your-data/) - ZDNet, By Liam Tung | May 1, 2019 -- 13:08 GMT (06:08 PDT) | Topic: Enterprise Software
   * Microsoft creates 'required' and 'optional' categories of data it collects after EU probe into GDPR violations.
-
+* [Facebook and the ‘phenomenon of trust and ignorance’: La Trobe](https://www.zdnet.com/article/facebook-and-the-phenomenon-of-trust-and-ignorance-la-trobe/) - By Corinne Reichert | May 3, 2019 -- 01:33 GMT (18:33 PDT) | Topic: Security
+  * Internet giants have too much control over society, economy, and democracy, a La Trobe Law School cybersecurity associate professor has said.
 
 ## Healthcare
 * [Rethinking paying for pain – how payors propped up Purdue Pharma and the opioid industry](https://www.linkedin.com/pulse/rethinking-paying-pain-how-payors-prop-up-purdue-amy) - Linkedin, Amy Baxter MD FAAP FACEP; Published on April 20, 2019
