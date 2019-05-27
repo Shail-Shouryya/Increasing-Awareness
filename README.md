@@ -129,6 +129,9 @@ Stephanie Condon
 * [MIT finally gives a name to the sum of all AI fears](https://www.zdnet.com/article/mit-finally-gives-a-name-to-the-sum-of-all-ai-fears/) - ZDNet, By Tiernan Ray | April 25, 2019 -- 17:24 GMT (10:24 PDT) | Topic: Artificial Intelligence
   * Rather than simply being scared of “intelligent machines,” say researchers at MIT’s Media Lab, society needs to study algorithms with a multi-disciplinary approach akin to the field of ethology.
 * [3 Marketing Opportunities to Take Advantage of in 2019](https://www.linkedin.com/pulse/3-marketing-opportunities-take-advantage-2019-gary-vaynerchuk) - LinkedIn, Gary Vaynerchuk; Published on April 20, 2019
+* [How Silicon Valley gamed Europe’s privacy rules](https://www.politico.eu/article/europe-data-protection-gdpr-general-data-protection-regulation-facebook-google/) - Politico, By Mark Scott, Laurens Cerulus and Steven Overly; 5/22/19, 10:40 AM CET, Updated 5/26/19, 7:50 PM CET
+  * The region’s data protection overhaul was supposed to help citizens. Instead, it’s helped Big Tech.
+* [Annals of Technology: The Hidden Radicalism of Chris Hughes’s Call to Break Up Facebook](https://www.newyorker.com/tech/annals-of-technology/the-hidden-radicalism-of-chris-hughess-call-to-break-up-facebook) - The New Yorker, By Nathan Heller; May 14, 2019
 
 ## Healthcare
 * [Rethinking paying for pain – how payors propped up Purdue Pharma and the opioid industry](https://www.linkedin.com/pulse/rethinking-paying-pain-how-payors-prop-up-purdue-amy) - Linkedin, Amy Baxter MD FAAP FACEP; Published on April 20, 2019
