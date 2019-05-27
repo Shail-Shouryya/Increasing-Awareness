@@ -13,6 +13,7 @@
 
 ## Living Life
 * [Leadership lessons from Serena Williams and Michelle Obama](https://www.theladders.com/career-advice/leadership-lessons-from-serena-williams-and-michelle-obama?utm_swu=6280) - Sue Hawkes; April 25, 2019
+* [The ‘One Day’ That Could Change Your Life Forever: How one day could mean the difference between nothing and everything…](https://medium.com/personal-growth-lab/the-one-day-that-could-change-your-life-forever-a8f25c9c79b0) - Personal Growth Lab (Medium), Jari Roomer; May 7, 2019
 
 ## Thinking Ahead
 * [Your complete guide to mastering your early retirement](https://www.theladders.com/career-advice/your-complete-guide-to-mastering-your-early-retirement) - Steve Adcock; May 10, 2019
