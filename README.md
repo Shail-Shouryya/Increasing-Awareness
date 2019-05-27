@@ -18,6 +18,10 @@
 * [Your complete guide to mastering your early retirement](https://www.theladders.com/career-advice/your-complete-guide-to-mastering-your-early-retirement) - Steve Adcock; May 10, 2019
 * [Finding financial freedom: A bucket list for Millennials and Gen](https://www.theladders.com/career-advice/finding-financial-freedom-a-bucket-list-for-millennials-and-gen-z) - Molly Barnes; May 13, 2019
 * [4 Pieces of Advice Your Commencement Speaker Won’t Tell You](http://time.com/5585923/graduation-college-commencement-address-speaker/) - Time, By Scott Galloway May 9, 2019
+* [Joint Accounts: Is It Worth Asking for a Prenup If I’m Not Rich?](https://medium.com/s/joint-accounts/is-it-worth-asking-for-a-prenup-if-im-not-rich-153a5fac934c) - Joint Accounts Medium, Kristin Wong; May 20, 2019
+  * Think of this as practice for all the tough conversations that marriage entails
+* [How to Tell Your Spouse You Lost $70,000: I forgot to claim stock options. They expired. Did I have to tell my husband?](https://humanparts.medium.com/how-to-tell-your-spouse-you-lost-70-000-636925085d1d) - Human Parts - Medium, Belinda Luscombe; May 22, 2019
+  * Slightly humorous take
 
 ## Finance
 **S**pecific
