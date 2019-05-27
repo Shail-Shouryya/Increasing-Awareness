@@ -128,6 +128,7 @@ When stock prices go down, you can:
 Stephanie Condon
 * [MIT finally gives a name to the sum of all AI fears](https://www.zdnet.com/article/mit-finally-gives-a-name-to-the-sum-of-all-ai-fears/) - ZDNet, By Tiernan Ray | April 25, 2019 -- 17:24 GMT (10:24 PDT) | Topic: Artificial Intelligence
   * Rather than simply being scared of “intelligent machines,” say researchers at MIT’s Media Lab, society needs to study algorithms with a multi-disciplinary approach akin to the field of ethology.
+* [3 Marketing Opportunities to Take Advantage of in 2019](https://www.linkedin.com/pulse/3-marketing-opportunities-take-advantage-2019-gary-vaynerchuk) - LinkedIn, Gary Vaynerchuk; Published on April 20, 2019
 
 ## Healthcare
 * [Rethinking paying for pain – how payors propped up Purdue Pharma and the opioid industry](https://www.linkedin.com/pulse/rethinking-paying-pain-how-payors-prop-up-purdue-amy) - Linkedin, Amy Baxter MD FAAP FACEP; Published on April 20, 2019
