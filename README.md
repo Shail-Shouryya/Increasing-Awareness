@@ -17,6 +17,7 @@
 ## Thinking Ahead
 * [Your complete guide to mastering your early retirement](https://www.theladders.com/career-advice/your-complete-guide-to-mastering-your-early-retirement) - Steve Adcock; May 10, 2019
 * [Finding financial freedom: A bucket list for Millennials and Gen](https://www.theladders.com/career-advice/finding-financial-freedom-a-bucket-list-for-millennials-and-gen-z) - Molly Barnes; May 13, 2019
+* [4 Pieces of Advice Your Commencement Speaker Won’t Tell You](http://time.com/5585923/graduation-college-commencement-address-speaker/) - Time, By Scott Galloway May 9, 2019
 
 ## Finance
 **S**pecific
