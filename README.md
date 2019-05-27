@@ -135,3 +135,6 @@ Stephanie Condon
 
 ## Healthcare
 * [Rethinking paying for pain – how payors propped up Purdue Pharma and the opioid industry](https://www.linkedin.com/pulse/rethinking-paying-pain-how-payors-prop-up-purdue-amy) - Linkedin, Amy Baxter MD FAAP FACEP; Published on April 20, 2019
+ 
+ ## Travel
+ * [Page-Turner: The Invisible City Beneath Paris - Under the southern portion of the city exists its negative image: a network of more than two hundred miles of galleries, rooms, and chambers.](https://www.newyorker.com/news/dispatch/the-invisible-city-beneath-paris) - The New Yorker, By Robert Macfarlane; May 23, 2019
