@@ -15,7 +15,10 @@
 ### Nutrition
 * [7 Best Food Pairings That Fight Inflammation in 2019](https://www.prevention.com/food-nutrition/g20514837/7-food-pairings-that-fight-inflammation/) - Prevention, By Leah Polakoff; Jun 4, 2019 
   * If you're not eating these foods together, you're missing out.
-
+  
+### Fitness
+* [Do You Really Lose a Pound of Fat for Every 3,500 Calories You Burn?](https://www.gq.com/story/calorie-weight-loss) - GQ, By K. Aleisha Fetters; December 10, 2015
+  * When it comes to weight loss, math can't solve every problem.
 
 ## Living Life
 * [Leadership lessons from Serena Williams and Michelle Obama](https://www.theladders.com/career-advice/leadership-lessons-from-serena-williams-and-michelle-obama?utm_swu=6280) - Sue Hawkes; April 25, 2019
