@@ -22,10 +22,16 @@
 
 ## Living Life
 * [Leadership lessons from Serena Williams and Michelle Obama](https://www.theladders.com/career-advice/leadership-lessons-from-serena-williams-and-michelle-obama?utm_swu=6280) - Sue Hawkes; April 25, 2019
+* [The ‘One Day’ That Could Change Your Life Forever: How one day could mean the difference between nothing and everything…](https://medium.com/personal-growth-lab/the-one-day-that-could-change-your-life-forever-a8f25c9c79b0) - Personal Growth Lab (Medium), Jari Roomer; May 7, 2019
 
 ## Thinking Ahead
 * [Your complete guide to mastering your early retirement](https://www.theladders.com/career-advice/your-complete-guide-to-mastering-your-early-retirement) - Steve Adcock; May 10, 2019
 * [Finding financial freedom: A bucket list for Millennials and Gen](https://www.theladders.com/career-advice/finding-financial-freedom-a-bucket-list-for-millennials-and-gen-z) - Molly Barnes; May 13, 2019
+* [4 Pieces of Advice Your Commencement Speaker Won’t Tell You](http://time.com/5585923/graduation-college-commencement-address-speaker/) - Time, By Scott Galloway May 9, 2019
+* [Joint Accounts: Is It Worth Asking for a Prenup If I’m Not Rich?](https://medium.com/s/joint-accounts/is-it-worth-asking-for-a-prenup-if-im-not-rich-153a5fac934c) - Joint Accounts Medium, Kristin Wong; May 20, 2019
+  * Think of this as practice for all the tough conversations that marriage entails
+* [How to Tell Your Spouse You Lost $70,000: I forgot to claim stock options. They expired. Did I have to tell my husband?](https://humanparts.medium.com/how-to-tell-your-spouse-you-lost-70-000-636925085d1d) - Human Parts - Medium, Belinda Luscombe; May 22, 2019
+  * Slightly humorous take
 
 ## Finance
 **S**pecific
@@ -140,5 +146,26 @@ When stock prices go down, you can:
 Stephanie Condon
 * [MIT finally gives a name to the sum of all AI fears](https://www.zdnet.com/article/mit-finally-gives-a-name-to-the-sum-of-all-ai-fears/) - ZDNet, By Tiernan Ray | April 25, 2019 -- 17:24 GMT (10:24 PDT) | Topic: Artificial Intelligence
   * Rather than simply being scared of “intelligent machines,” say researchers at MIT’s Media Lab, society needs to study algorithms with a multi-disciplinary approach akin to the field of ethology.
+<<<<<<< HEAD
 * [The Amazon Diaries - Amazon Marketplace Seller: ‘One Mistake is Enough to Kill Your Career’](https://onezero.medium.com/amazon-marketplace-seller-one-mistake-is-enough-to-kill-your-career-85df2ee9045e) - OneZero, By Brendan O'Connor; April 1, 2019
   * Selling on the Marketplace can leave vendors feeling like ‘indentured servants.’
+=======
+* [3 Marketing Opportunities to Take Advantage of in 2019](https://www.linkedin.com/pulse/3-marketing-opportunities-take-advantage-2019-gary-vaynerchuk) - LinkedIn, Gary Vaynerchuk; Published on April 20, 2019
+* [How Silicon Valley gamed Europe’s privacy rules](https://www.politico.eu/article/europe-data-protection-gdpr-general-data-protection-regulation-facebook-google/) - Politico, By Mark Scott, Laurens Cerulus and Steven Overly; 5/22/19, 10:40 AM CET, Updated 5/26/19, 7:50 PM CET
+  * The region’s data protection overhaul was supposed to help citizens. Instead, it’s helped Big Tech.
+* [Annals of Technology: The Hidden Radicalism of Chris Hughes’s Call to Break Up Facebook](https://www.newyorker.com/tech/annals-of-technology/the-hidden-radicalism-of-chris-hughess-call-to-break-up-facebook) - The New Yorker, By Nathan Heller; May 14, 2019
+***
+* [ Inside Google's Civil War: Some employees say Google is losing touch with its “Don’t be evil” motto. What happens when an empowered tech workforce rebels?](http://fortune.com/longform/inside-googles-civil-war/) - Fortune, By Beth Kowitt; May 17, 2019
+***
+* [In Baltimore and Beyond, a Stolen N.S.A. Tool Wreaks Havoc](https://www.nytimes.com/2019/05/25/us/nsa-hacking-tool-baltimore.html?utm_source=pocket-newtab) - The New York Times, By Nicole Perlroth and Scott Shane; May 25, 2019
+* [The Trick Tax-Prep Companies Use to Get More Money From You](https://www.gq.com/story/the-tax-prep-up-sell) - GQ, By Jay Willis; May 10, 2019
+  * How the industry’s upselling techniques get Americans to pay too much to file a federal tax return.
+
+
+
+## Healthcare
+* [Rethinking paying for pain – how payors propped up Purdue Pharma and the opioid industry](https://www.linkedin.com/pulse/rethinking-paying-pain-how-payors-prop-up-purdue-amy) - Linkedin, Amy Baxter MD FAAP FACEP; Published on April 20, 2019
+ 
+ ## Travel
+ * [Page-Turner: The Invisible City Beneath Paris - Under the southern portion of the city exists its negative image: a network of more than two hundred miles of galleries, rooms, and chambers.](https://www.newyorker.com/news/dispatch/the-invisible-city-beneath-paris) - The New Yorker, By Robert Macfarlane; May 23, 2019
+>>>>>>> 8657d3f9e83555c13165d6b0d1b06b25646d6593
