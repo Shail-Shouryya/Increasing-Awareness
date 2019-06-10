@@ -108,6 +108,7 @@ When stock prices go down, you can:
 * directional, non-directional strategies
 
 # Current Events
+
 ## Predictions, Future, Past
 * [The 1968 Sci-Fi that spookily predicted today](http://www.bbc.com/culture/story/20190509-the-1968-sci-fi-that-spookily-predicted-today?utm_source=pocket-newtab) - Hephzibah Anderson; 10 May 2019
 * [Jared Diamond: There’s a 49 Percent Chance the World As We Know It Will End by 2050](http://nymag.com/intelligencer/2019/05/jared-diamond-on-his-new-book-upheaval.html?utm_source=pocket-newtab) - David Wallace-Wells; May 10, 2019
@@ -122,6 +123,8 @@ When stock prices go down, you can:
 * [Talking to the Law Student With a Novel Theory About Amazon’s Power](http://nymag.com/intelligencer/2019/05/amazon-antitrust-monopoly.html) - Benjamin Hart; May 11, 2019
 * [Bernie Sanders and Alexandria Ocasio-Cortez’s interest-rate cap could be the death knell for credit-card rewards programs](https://www.marketwatch.com/story/how-bernie-sanders-and-alexandria-ocasio-cortezs-proposal-to-cap-credit-card-interest-rates-at-15-could-hurt-consumers-2019-05-10) - MarketWatch; Published: May 12, 2019 1:35 p.m. ET
 * [Tips from a guy who managed to live in Manhattan on a $40,000 salary and still max out his 401(k) contributions](https://www.marketwatch.com/story/tips-from-a-guy-who-managed-to-live-in-manhattan-on-a-40000-salary-and-still-max-out-his-401k-contributions-2018-11-12) - MarketWatch; Published: Nov 12, 2018 1:43 p.m. ET
+* [Parking Has Eaten American Cities](https://www.citylab.com/transportation/2018/07/parking-has-eaten-american-cities/565715/) - Citybab, By Richard Florida; July 24, 2018
+
 
 ## Technology
 * [The Future: Apple owes everyone an apology and it should start with me, specifically](https://theoutline.com/post/7315/apple-keyboards-still-suck-insanely-bad?zd=3&zi=6dey5s2d) - The Outline, Casey Johnston; Apr—18—2019 09:20AM EST
