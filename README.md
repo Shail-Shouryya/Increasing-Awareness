@@ -134,3 +134,5 @@ When stock prices go down, you can:
 Stephanie Condon
 * [MIT finally gives a name to the sum of all AI fears](https://www.zdnet.com/article/mit-finally-gives-a-name-to-the-sum-of-all-ai-fears/) - ZDNet, By Tiernan Ray | April 25, 2019 -- 17:24 GMT (10:24 PDT) | Topic: Artificial Intelligence
   * Rather than simply being scared of “intelligent machines,” say researchers at MIT’s Media Lab, society needs to study algorithms with a multi-disciplinary approach akin to the field of ethology.
+* [The Amazon Diaries - Amazon Marketplace Seller: ‘One Mistake is Enough to Kill Your Career’](https://onezero.medium.com/amazon-marketplace-seller-one-mistake-is-enough-to-kill-your-career-85df2ee9045e) - OneZero, By Brendan O'Connor; April 1, 2019
+  * Selling on the Marketplace can leave vendors feeling like ‘indentured servants.’
