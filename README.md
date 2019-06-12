@@ -160,7 +160,8 @@ Stephanie Condon
 * [In Baltimore and Beyond, a Stolen N.S.A. Tool Wreaks Havoc](https://www.nytimes.com/2019/05/25/us/nsa-hacking-tool-baltimore.html?utm_source=pocket-newtab) - The New York Times, By Nicole Perlroth and Scott Shane; May 25, 2019
 * [The Trick Tax-Prep Companies Use to Get More Money From You](https://www.gq.com/story/the-tax-prep-up-sell) - GQ, By Jay Willis; May 10, 2019
   * How the industry’s upselling techniques get Americans to pay too much to file a federal tax return.
-
+* [The restaurant owner who asked for 1-star Yelp reviews](https://thehustle.co/botto-bistro-1-star-yelp/) - the Hustle, BY Zachary Crockett; June 9, 2019
+  * How one small business owner flipped the online review ecosystem on its head.
 
 
 ## Healthcare
