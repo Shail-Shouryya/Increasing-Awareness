@@ -11,6 +11,8 @@
 * [How to gamify your life to quickly accomplish big goals](https://www.theladders.com/career-advice/how-to-gamify-your-life-to-quickly-accomplish-big-goals) - [Medium article](https://medium.com/the-mission/how-to-gamify-your-life-to-quickly-accomplish-big-goals-b81721299912)
 * [Why full catastrophe living is slowing you down](https://www.theladders.com/career-advice/why-full-catastrophe-living-is-slowing-you-down)- John P. Weiss; May 14, 2019
 * [Achieving Financial Independence On A Modest Income: $40,000 In Manhattan](https://www.financialsamurai.com/achieving-financial-independence-on-a-modest-income/) - Financial Samurai
+* [Productivity Isn’t About Time Management. It’s About Attention Management.](https://www.nytimes.com/2019/03/28/smarter-living/productivity-isnt-about-time-management-its-about-attention-management.html) - The New York Times, By Adam Grant; March 28, 2019
+  * “Time management” is not a solution — it’s actually part of the problem.
 
 ### Nutrition
 * [7 Best Food Pairings That Fight Inflammation in 2019](https://www.prevention.com/food-nutrition/g20514837/7-food-pairings-that-fight-inflammation/) - Prevention, By Leah Polakoff; Jun 4, 2019 
