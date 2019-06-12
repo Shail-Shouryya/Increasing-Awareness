@@ -148,10 +148,8 @@ When stock prices go down, you can:
 Stephanie Condon
 * [MIT finally gives a name to the sum of all AI fears](https://www.zdnet.com/article/mit-finally-gives-a-name-to-the-sum-of-all-ai-fears/) - ZDNet, By Tiernan Ray | April 25, 2019 -- 17:24 GMT (10:24 PDT) | Topic: Artificial Intelligence
   * Rather than simply being scared of “intelligent machines,” say researchers at MIT’s Media Lab, society needs to study algorithms with a multi-disciplinary approach akin to the field of ethology.
-<<<<<<< HEAD
 * [The Amazon Diaries - Amazon Marketplace Seller: ‘One Mistake is Enough to Kill Your Career’](https://onezero.medium.com/amazon-marketplace-seller-one-mistake-is-enough-to-kill-your-career-85df2ee9045e) - OneZero, By Brendan O'Connor; April 1, 2019
   * Selling on the Marketplace can leave vendors feeling like ‘indentured servants.’
-=======
 * [3 Marketing Opportunities to Take Advantage of in 2019](https://www.linkedin.com/pulse/3-marketing-opportunities-take-advantage-2019-gary-vaynerchuk) - LinkedIn, Gary Vaynerchuk; Published on April 20, 2019
 * [How Silicon Valley gamed Europe’s privacy rules](https://www.politico.eu/article/europe-data-protection-gdpr-general-data-protection-regulation-facebook-google/) - Politico, By Mark Scott, Laurens Cerulus and Steven Overly; 5/22/19, 10:40 AM CET, Updated 5/26/19, 7:50 PM CET
   * The region’s data protection overhaul was supposed to help citizens. Instead, it’s helped Big Tech.
@@ -171,4 +169,3 @@ Stephanie Condon
  
  ## Travel
  * [Page-Turner: The Invisible City Beneath Paris - Under the southern portion of the city exists its negative image: a network of more than two hundred miles of galleries, rooms, and chambers.](https://www.newyorker.com/news/dispatch/the-invisible-city-beneath-paris) - The New Yorker, By Robert Macfarlane; May 23, 2019
->>>>>>> 8657d3f9e83555c13165d6b0d1b06b25646d6593
