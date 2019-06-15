@@ -167,6 +167,15 @@ Stephanie Condon
   * Microsoft creates 'required' and 'optional' categories of data it collects after EU probe into GDPR violations.
 * [Facebook and the ‘phenomenon of trust and ignorance’: La Trobe](https://www.zdnet.com/article/facebook-and-the-phenomenon-of-trust-and-ignorance-la-trobe/) - By Corinne Reichert | May 3, 2019 -- 01:33 GMT (18:33 PDT) | Topic: Security
   * Internet giants have too much control over society, economy, and democracy, a La Trobe Law School cybersecurity associate professor has said.
+* [Border Agency’s Images of Travelers Stolen in Hack](https://www.nytimes.com/2019/06/10/us/politics/customs-data-breach.html) - The New York Times, By Zolan Kanno-Youngs and David E. Sanger; June 10, 2019
+* [How Google Tracks Your Personal Information](https://medium.com/s/story/the-complete-unauthorized-checklist-of-how-google-tracks-you-3c3abc10781d) - Medium Privacy (Featured Stories), Patrick Berlinquette; December 4, 2018
+* [Tracking Phones, Google Is a Dragnet for the Police](https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html) - The New York Times, By JENNIFER VALENTINO-DeVRIES;	APRIL 13, 2019
+  * The tech giant records people’s locations worldwide. Now, investigators are using it to find suspects and witnesses near crimes, running the risk of snaring the innocent.
+* [In Stores, Secret Surveillance Tracks Your Every Move As you shop, “beacons” are watching you, using hidden technology in your phone.](https://www.nytimes.com/interactive/2019/06/14/opinion/bluetooth-wireless-tracking-privacy.html) - The New York Times (The Privacy Project), By Michael Kwet, Graphics by Tala Schlossberg, Illustrations by Max Guther
+* [Algorithms Won’t Fix What’s Wrong With YouTube](https://www.nytimes.com/2019/06/14/opinion/youtube-algorithm.html?) - The New York Times (Opinion), By Chris Stokel-Walker; June 14, 2019 -- What seems like a sensible decision to an algorithm can be a terrible misstep to a human.
+* [Want to See My Genes? Get a Warrant](https://www.nytimes.com/2019/06/11/opinion/police-dna-warrant.html) - The New York Times (The Privacy Project, Opinion), By Elizabeth Joh - Ms. Joh is a law professor; June 11, 2019
+Should the police be able to investigate your genetic family tree for any crime, no matter how minor?
+* [You Care More About Your Privacy Than You Think](https://www.nytimes.com/2019/06/11/opinion/privacy-facebook-sexting.html) - The New York Times (The Privacy Project, Opinion), By Charlie Warzel - Mr. Warzel is an Opinion writer at large; June 11, 2019
 
 ## Healthcare
 * [Rethinking paying for pain – how payors propped up Purdue Pharma and the opioid industry](https://www.linkedin.com/pulse/rethinking-paying-pain-how-payors-prop-up-purdue-amy) - Linkedin, Amy Baxter MD FAAP FACEP; Published on April 20, 2019
