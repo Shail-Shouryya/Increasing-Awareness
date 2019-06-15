@@ -136,7 +136,7 @@ When stock prices go down, you can:
 * [Bernie Sanders and Alexandria Ocasio-Cortez’s interest-rate cap could be the death knell for credit-card rewards programs](https://www.marketwatch.com/story/how-bernie-sanders-and-alexandria-ocasio-cortezs-proposal-to-cap-credit-card-interest-rates-at-15-could-hurt-consumers-2019-05-10) - MarketWatch; Published: May 12, 2019 1:35 p.m. ET
 * [Tips from a guy who managed to live in Manhattan on a $40,000 salary and still max out his 401(k) contributions](https://www.marketwatch.com/story/tips-from-a-guy-who-managed-to-live-in-manhattan-on-a-40000-salary-and-still-max-out-his-401k-contributions-2018-11-12) - MarketWatch; Published: Nov 12, 2018 1:43 p.m. ET
 * [Parking Has Eaten American Cities](https://www.citylab.com/transportation/2018/07/parking-has-eaten-american-cities/565715/) - Citybab, By Richard Florida; July 24, 2018
-
+* [Titans of Real Estate in ‘Shock’ Over New York Rent Law Deal](https://www.nytimes.com/2019/06/12/nyregion/landlord-rent-protection-regulation.html) - The New York Times, By J. David Goodman, Vivian Wang and Luis Ferré-Sadurní; June 12, 2019
 
 ## Technology
 * [The Future: Apple owes everyone an apology and it should start with me, specifically](https://theoutline.com/post/7315/apple-keyboards-still-suck-insanely-bad?zd=3&zi=6dey5s2d) - The Outline, Casey Johnston; Apr—18—2019 09:20AM EST
