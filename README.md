@@ -183,6 +183,11 @@ Should the police be able to investigate your genetic family tree for any crime,
 * [You Care More About Your Privacy Than You Think](https://www.nytimes.com/2019/06/11/opinion/privacy-facebook-sexting.html) - The New York Times (The Privacy Project, Opinion), By Charlie Warzel - Mr. Warzel is an Opinion writer at large; June 11, 2019
 * [I Cut the 'Big Five' Tech Giants From My Life. It Was Hell](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194) - Gizmodo, by Kashmir Hill; 2/07/19 12:00pm -- Filed to: blocking the tech giants
 
+### Android/iOS Alternatives:
+* [devices.ubuntu-touch.io](https://devices.ubuntu-touch.io/)
+* [/e/](https://e.foundation/products/) is a complete mobile ecosystem
+* [Librem 5](https://puri.sm/products/librem-5/), developed by [Purism](https://puri.sm/)
+
 ## Healthcare
 * [Rethinking paying for pain – how payors propped up Purdue Pharma and the opioid industry](https://www.linkedin.com/pulse/rethinking-paying-pain-how-payors-prop-up-purdue-amy) - Linkedin, Amy Baxter MD FAAP FACEP; Published on April 20, 2019
  
