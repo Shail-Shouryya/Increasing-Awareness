@@ -126,7 +126,10 @@ When stock prices go down, you can:
 * [Jared Diamond: There’s a 49 Percent Chance the World As We Know It Will End by 2050](http://nymag.com/intelligencer/2019/05/jared-diamond-on-his-new-book-upheaval.html?utm_source=pocket-newtab) - David Wallace-Wells; May 10, 2019
 
 ## Climate
+
 * [How to Keep the Earth as Inhabitable as Possible](https://www.gq.com/story/uninhabitable-earth-david-wallace-wells-interview?utm_source=pocket-newtab) - Luke Darby; May 10, 2019
+* [Capital Weather Gang Analysis: Planet is entering ‘new climate regime’ with ‘extraordinary’ heat waves intensified by global warming, study says](https://www.washingtonpost.com/weather/2019/06/11/climate-change-intensified-last-summers-northern-hemisphere-heat-wave-it-may-be-starting-all-over-again/) - The Washington Post, By Jason Samenow; June 11, 2019
+
 
 ## Economy
 * [This stunning statistic may be a bad sign for our economy](https://www.theladders.com/career-advice/this-stunning-statistic-may-be-a-bad-sign-for-our-economy?utm_swu=6280&utm_content=2/19-DNL%20MorningBrew&utm_term=DNL-2-19-19&utm_medium=email&utm_campaign=daily-newsletter&utm_source=member) - Alexandra Villarreal; February 19, 2019
