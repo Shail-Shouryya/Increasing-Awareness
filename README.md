@@ -181,6 +181,7 @@ Stephanie Condon
 * [Want to See My Genes? Get a Warrant](https://www.nytimes.com/2019/06/11/opinion/police-dna-warrant.html) - The New York Times (The Privacy Project, Opinion), By Elizabeth Joh - Ms. Joh is a law professor; June 11, 2019
 Should the police be able to investigate your genetic family tree for any crime, no matter how minor?
 * [You Care More About Your Privacy Than You Think](https://www.nytimes.com/2019/06/11/opinion/privacy-facebook-sexting.html) - The New York Times (The Privacy Project, Opinion), By Charlie Warzel - Mr. Warzel is an Opinion writer at large; June 11, 2019
+* [I Cut the 'Big Five' Tech Giants From My Life. It Was Hell](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194) - Gizmodo, by Kashmir Hill; 2/07/19 12:00pm -- Filed to: blocking the tech giants
 
 ## Healthcare
 * [Rethinking paying for pain – how payors propped up Purdue Pharma and the opioid industry](https://www.linkedin.com/pulse/rethinking-paying-pain-how-payors-prop-up-purdue-amy) - Linkedin, Amy Baxter MD FAAP FACEP; Published on April 20, 2019
