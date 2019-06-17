@@ -143,6 +143,7 @@ When stock prices go down, you can:
 * [Titans of Real Estate in ‘Shock’ Over New York Rent Law Deal](https://www.nytimes.com/2019/06/12/nyregion/landlord-rent-protection-regulation.html) - The New York Times, By J. David Goodman, Vivian Wang and Luis Ferré-Sadurní; June 12, 2019
 * [The Ruthless Reality of Amazon's One-Day Shipping](https://gizmodo.com/the-ruthless-reality-of-amazons-one-day-shipping-1835513901) - Gizmodo, Michael Sainato, Friday June 14, 2019 11:03am
 * [The Personal Finance Industry Is a Scam](https://www.gq.com/story/suze-orman-personal-finance?utm_source=nl&utm_brand=gq&utm_mailing=gq_daily_061319) - GQ, By Kashana Cauley; June 13, 2019 -- Suze Orman’s rant against coffee is the latest in cable-news advice that puts the blame for an increasingly unequal financial system on individuals.
+* [The Growing Trend Of Retiree Student Loan Debt](https://www.forbes.com/sites/robertfarrington/2019/05/22/the-growing-trend-of-retiree-student-loan-debt/#431fdc6446a4) - Forbes, By Robert Farrington; May 22, 2019 08:11am
 
 ## Technology
 * [The Future: Apple owes everyone an apology and it should start with me, specifically](https://theoutline.com/post/7315/apple-keyboards-still-suck-insanely-bad?zd=3&zi=6dey5s2d) - The Outline, Casey Johnston; Apr—18—2019 09:20AM EST
