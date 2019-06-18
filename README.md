@@ -184,6 +184,7 @@ Stephanie Condon
 Should the police be able to investigate your genetic family tree for any crime, no matter how minor?
 * [You Care More About Your Privacy Than You Think](https://www.nytimes.com/2019/06/11/opinion/privacy-facebook-sexting.html) - The New York Times (The Privacy Project, Opinion), By Charlie Warzel - Mr. Warzel is an Opinion writer at large; June 11, 2019
 * [I Cut the 'Big Five' Tech Giants From My Life. It Was Hell](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194) - Gizmodo, by Kashmir Hill; 2/07/19 12:00pm -- Filed to: blocking the tech giants
+* [How A.I. Could Be Weaponized to Spread Disinformation](https://www.nytimes.com/interactive/2019/06/07/technology/ai-text-disinformation.html] - The New York Times, By CADE METZ and SCOTT BLUMENTHAL; JUNE 7, 2019
 
 ### Android/iOS Alternatives:
 * [devices.ubuntu-touch.io](https://devices.ubuntu-touch.io/)
