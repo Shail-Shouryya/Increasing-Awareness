@@ -130,6 +130,7 @@ When stock prices go down, you can:
 * [How to Keep the Earth as Inhabitable as Possible](https://www.gq.com/story/uninhabitable-earth-david-wallace-wells-interview?utm_source=pocket-newtab) - Luke Darby; May 10, 2019
 * [Capital Weather Gang Analysis: Planet is entering ‘new climate regime’ with ‘extraordinary’ heat waves intensified by global warming, study says](https://www.washingtonpost.com/weather/2019/06/11/climate-change-intensified-last-summers-northern-hemisphere-heat-wave-it-may-be-starting-all-over-again/) - The Washington Post, By Jason Samenow; June 11, 2019
 * [Much-anticipated monsoon may not solve India's drought crisis](https://www.cnn.com/2016/05/05/asia/india-heat-wave-drought/index.html) - CNN, By Juliet Perry and Huizhong Wu; Updated 12:18 AM ET, Mon May 9, 2016
+* [Soaring Temperatures Speed Up Spring Thaw on Greenland’s Ice Sheet](https://www.nytimes.com/2019/06/17/climate/greenland-ice-sheet-melting.html) - The New York Times, By Henry Fountain; June 17, 2019
 
 
 ## Economy
