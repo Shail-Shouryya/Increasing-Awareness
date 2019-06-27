@@ -132,6 +132,8 @@ When stock prices go down, you can:
 * [Much-anticipated monsoon may not solve India's drought crisis](https://www.cnn.com/2016/05/05/asia/india-heat-wave-drought/index.html) - CNN, By Juliet Perry and Huizhong Wu; Updated 12:18 AM ET, Mon May 9, 2016
 * [Soaring Temperatures Speed Up Spring Thaw on Greenland’s Ice Sheet](https://www.nytimes.com/2019/06/17/climate/greenland-ice-sheet-melting.html) - The New York Times, By Henry Fountain; June 17, 2019
 
+## Sustainability
+* [Americans' plastic recycling is dumped in landfills, investigation shows](https://www.theguardian.com/us-news/2019/jun/21/us-plastic-recycling-landfills) - The Guardian, by Erin McCormick and Charlotte Simmonds in San Francisco, Jessica Glenza in New York, and Katharine Gammon in Los Angeles; Friday June 21, 2019 06.14 BST
 
 ## Economy
 * [This stunning statistic may be a bad sign for our economy](https://www.theladders.com/career-advice/this-stunning-statistic-may-be-a-bad-sign-for-our-economy?utm_swu=6280&utm_content=2/19-DNL%20MorningBrew&utm_term=DNL-2-19-19&utm_medium=email&utm_campaign=daily-newsletter&utm_source=member) - Alexandra Villarreal; February 19, 2019
