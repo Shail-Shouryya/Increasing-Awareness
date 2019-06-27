@@ -190,6 +190,7 @@ Should the police be able to investigate your genetic family tree for any crime,
 * [I Cut the 'Big Five' Tech Giants From My Life. It Was Hell](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194) - Gizmodo, by Kashmir Hill; 2/07/19 12:00pm -- Filed to: blocking the tech giants
 * [How A.I. Could Be Weaponized to Spread Disinformation](https://www.nytimes.com/interactive/2019/06/07/technology/ai-text-disinformation.html] - The New York Times, By CADE METZ and SCOTT BLUMENTHAL; JUNE 7, 2019
 * [It's Time to Switch to a Privacy Browser](https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/) - Wired, David Nield; June 16, 2019 07:00 am
+* [Many of 2018's most dangerous Android and iOS security flaws still threaten your mobile security](https://www.zdnet.com/pictures/the-most-dangerous-vulnerabilities-security-flaws-found-in-google-android-apple-ios-over-2018/) - ZDNet; December 12, 2018 -- 21:50 GMT (13:50 PST)
 
 ### Android/iOS Alternatives:
 * [devices.ubuntu-touch.io](https://devices.ubuntu-touch.io/)
