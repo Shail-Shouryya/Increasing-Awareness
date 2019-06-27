@@ -202,3 +202,4 @@ Should the police be able to investigate your genetic family tree for any crime,
   * July 2019 Issue: Five years ago, the flight vanished into the Indian Ocean. Officials on land know more about why than they dare to say.
 * [I’ve Climbed Everest 21 Times. It’s Not the Mountain It Used to Be.](https://newrepublic.com/article/154201/ive-climbed-everest-21-times-its-not-mountain-used-be) - The New Republic, Apa Sherpa as told to Emily Atkin; June 18, 2019
   * Over nearly three decades, Apa Sherpa has witnessed the effects of a warming climate and an overcrowded peak.
+* [Everest 2017: Why is the Khumbu Icefall so Dangerous?](http://www.alanarnette.com/blog/2017/03/15/everest-2017-why-is-the-khumbu-icefall-so-dangerous/) - Alanarnette
