@@ -200,3 +200,5 @@ Should the police be able to investigate your genetic family tree for any crime,
  * [Page-Turner: The Invisible City Beneath Paris - Under the southern portion of the city exists its negative image: a network of more than two hundred miles of galleries, rooms, and chambers.](https://www.newyorker.com/news/dispatch/the-invisible-city-beneath-paris) - The New Yorker, By Robert Macfarlane; May 23, 2019
 * [What Really Happened to Malaysia’s Missing Airplane](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) - The Atlantic, William Langewiesche; Updated at 10:25 a.m. ET on June 17, 2019
   * July 2019 Issue: Five years ago, the flight vanished into the Indian Ocean. Officials on land know more about why than they dare to say.
+* [I’ve Climbed Everest 21 Times. It’s Not the Mountain It Used to Be.](https://newrepublic.com/article/154201/ive-climbed-everest-21-times-its-not-mountain-used-be) - The New Republic, Apa Sherpa as told to Emily Atkin; June 18, 2019
+  * Over nearly three decades, Apa Sherpa has witnessed the effects of a warming climate and an overcrowded peak.
